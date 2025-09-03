@@ -23,7 +23,8 @@ The goal is to predict the photographer from a given image with high accuracy.
 - **ResNet-18**  
 - **ResNet-34**  
 - **ResNet-50**  
-- **Custom CNN**  
+- **AlexNet**
+- **VGG16**  
 
 Each model is trained and evaluated for precision, recall, F1-score, and confusion matrix.
 
@@ -34,10 +35,11 @@ Instead of listing all per-class metrics here, the detailed classification repor
 
 | Model        | Accuracy | Precision | Recall | F1-Score |
 |-------------|----------|-----------|--------|----------|
-| ResNet-18   |    -     | -         | -      | -        |
-| ResNet-34   |    -     | -         | -      | -        |
-| ResNet-50   |    -     | -         | -      | -        |
-| Custom CNN  |    -     | -         | -      | -        |
+| ResNet-18   | XX%      | -         | -      | -        |
+| ResNet-34   | XX%      | -         | -      | -        |
+| ResNet-50   | XX%      | -         | -      | -        |
+| VGG16       | XX%      | -         | -      | -        |
+| AlexNet     | XX%      | -         | -      | -        |
 
 📌 **Note:** Check `results/` for the full per-class metrics and confusion matrices.
 ---
