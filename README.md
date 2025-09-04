@@ -48,3 +48,20 @@ Instead of listing all per-class metrics here, the detailed classification repor
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/photographer-identification.git
+# AIG Actual Analyst Job Simulation
+
+## Overview
+Completed the AIG Analyst Job Simulation to practice real-world data analysis tasks, including SQL queries, Excel modeling, and business problem solving.
+
+## Skills Applied
+- SQL
+- Microsoft Excel
+- Data interpretation
+- Analytical thinking
+
+## Key Learnings
+- Understanding claims processing workflow
+- Analyzing datasets to draw actionable insights
+- Reporting and visualization skills
+
+
